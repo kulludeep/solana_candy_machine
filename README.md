@@ -22,9 +22,3 @@ cd candy-machine-ui and  you have to add the candymachine id  which we have save
 yarn install 
 yarn start 
 
-<img width="370" alt="Screenshot 2023-05-31 at 11 52 14 PM" src="https://github.com/sajal1agarwal/solana_beginnner_candymachine/assets/126244956/681a56fa-bcee-47c3-8722-cf3c6a938923">
-
-<img width="363" alt="Screenshot 2023-05-31 at 11 51 54 PM" src="https://github.com/sajal1agarwal/solana_beginnner_candymachine/assets/126244956/7b2c6035-af6f-4f35-ba1c-b903cf77fdf0">
-<img width="1440" alt="Screenshot 2023-05-31 at 11 51 29 PM" src="https://github.com/sajal1agarwal/solana_beginnner_candymachine/assets/126244956/22bcef6a-d343-400c-a21f-2db74b397764">
-
-## finished
